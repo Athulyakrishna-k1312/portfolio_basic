@@ -26,5 +26,6 @@ Here is a preview of the portfolio:
 ![Portfolio Screenshot](output.png)
 
  ## 🌐 Live Demo
+ ![view](https://athulyakrishna-k1312.github.io/portfolio_basic/)
 
  
