@@ -19,3 +19,8 @@ portfolio/
 ├── output.png # Screenshot of the portfolio
 
 └── README.md # Project documentation
+
+## 💻 Output
+Here is a preview of the portfolio:
+
+![Portfolio Screenshot](output.png)
